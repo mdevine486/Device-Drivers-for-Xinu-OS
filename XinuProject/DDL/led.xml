@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ddl>
+  <device>
+    <name>LED</name>
+    <pin>
+      <id>light</id>
+      <gpio>0</gpio>
+      <num>14</num>
+      <values>
+        <on>1</on>
+        <off>0</off>
+      </values>
+      <mode>out</mode>
+    </pin>
+    <pin>
+      <id>light</id>
+      <gpio>0</gpio>
+      <num>14</num>
+      <mode>in</mode>
+    </pin>
+  </device>
+</ddl>

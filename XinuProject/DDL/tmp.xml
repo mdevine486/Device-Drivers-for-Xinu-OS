@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ddl>
+  <device>
+    <name>TMP</name>
+    <pin>
+      <id>sensor</id>
+      <num>0</num>
+      <mode>in</mode>
+    </pin>
+  </device>
+</ddl>

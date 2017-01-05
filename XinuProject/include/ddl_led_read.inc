@@ -1,0 +1,2 @@
+(AT_ADDRESS(GPIO_0 + GPIO_DATAIN) >>14) & 1;
+	
